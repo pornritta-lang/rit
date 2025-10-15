@@ -1,3 +1,6 @@
 YAhoo!!!
+<<<<<<< HEAD
+=======
 I rit Kod Gay
 Yed Ped
+>>>>>>> 129f297762006d3d9c83e9bf14e3b1ca65a23063
